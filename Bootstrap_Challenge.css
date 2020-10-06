@@ -1,0 +1,16 @@
+.home {
+    list-style: none;
+    display: flex;
+    margin: 0px 40px 10px 100px;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.5i0rTpXUaSdgbnTLVEOmjQHaEK?w=281&h=180&c=7&o=5&pid=1.7);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+.button{
+    margin: 100px 0px 0px 650px;
+}
+div label {
+    color: white;
+}
